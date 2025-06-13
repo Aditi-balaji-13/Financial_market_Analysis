@@ -2,8 +2,6 @@
 
 This project explores quantitative strategies for equity investment, specifically implementing and backtesting 150/50 (150% long, 50% short) strategies using historical data. It leverages financial features derived from academic literature and uses machine learning to guide portfolio construction.
 
-![Process Overview](Process.png)
-
 ---
 
 ## 🧠 Problem Statement
